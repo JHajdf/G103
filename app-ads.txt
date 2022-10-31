@@ -1,5 +1,4 @@
 facebook.com, 677662816264269, DIRECT, c3e20eee3f780d68
-
 tapjoy.com, 6ec0d3f957694de39e45ffa78eb62a15, DIRECT, 29e595b1aeb5904d
 rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
 webeyemob.com, 70096, RESELLER
@@ -31,3 +30,4 @@ pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-1025974711907315, DIRECT, f08c47fec0942fa0
