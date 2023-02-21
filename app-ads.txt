@@ -1233,3 +1233,7 @@ smartadserver.com, 3896, RESELLER
 verve.com, 15290, RESELLER
 appnexus.com, 13817, RESELLER
 betweendigital.com, 43871, RESELLER
+facebook.com, 3352443081739157, RESELLER, c3e20eee3f780d68
+google.com, pub-1025974711907315, DIRECT, f08c47fec0942fa0
+facebook.com, 1214250802538792, RESELLER, c3e20eee3f780d68
+google.com, pub-1025974711907315, DIRECT, f08c47fec0942fa0
